@@ -1,8 +1,8 @@
 # JS Client File Downloader
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/js-file-downloader"><img src="https://img.shields.io/npm/v/js-file-downloader.svg" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/js-file-downloader"><img src="https://img.shields.io/npm/l/js-file-downloader.svg" alt="License"></a>
+  <a href="https://www.npmjs.com/package/js-client-file-downloader"><img src="https://img.shields.io/npm/v/js-file-downloader.svg" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/js-client-file-downloader"><img src="https://img.shields.io/npm/l/js-file-downloader.svg" alt="License"></a>
 </p>
 
 ## Introduction

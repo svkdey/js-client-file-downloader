@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/svkdey/jsclientfiledownloader.git"
+    "url": "https://github.com/svkdey/js-client-file-downloader.git"
   },
   "keywords": [
     "js",
@@ -35,9 +35,9 @@
   "author": "svkdey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/svkdey/jsclientfiledownloader/issues"
+    "url": "https://github.com/svkdey/js-client-file-downloader.git/issues"
   },
-  "homepage": "https://github.com/svkdey/jsclientfiledownloader#readme",
+  "homepage": "https://github.com/svkdey/js-client-file-downloader.git#readme",
   "dependencies": {
     "docx": "^5.0.2",
     "file-saver": "^2.0.2",
