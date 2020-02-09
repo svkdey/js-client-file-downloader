@@ -77,14 +77,6 @@ onClick(()=>{
 };
 
 
-//makeTXT() to make json file , A string has to be passed in this method as input
-//ie , dataToBeDocumented="string ..."; format.
-
-onClick(()=>{
-    jsFileDownloader.makeTXT(<dataToBeDocumented>, <testfileName>)
-};
-
-
 //makeSimplePDF() to make json file , A string has to be passed in this method as input
 //ie , dataToBeDocumented="string ..."; format.
 
@@ -123,7 +115,7 @@ pass the data that you want to create a file.
 
 ---
 
-#Author
+## Author
 
 - Souvik Dey [https://github.com/svkdey]
 
@@ -133,7 +125,7 @@ pass the data that you want to create a file.
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2019-present,Souvik Dey
+Copyright (c) 2020-present,Souvik Dey
 
 Email : deysouvik955@gmail.com
 Github : https://github.com/svkdey
