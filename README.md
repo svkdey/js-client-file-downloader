@@ -1,4 +1,4 @@
-# JS Client File Downloader version: 1.0.7
+# JS Client File Downloader
 
 <p align="center">
   <a href="https://www.npmjs.com/package/js-client-file-downloader"><img src="https://img.shields.io/npm/v/js-client-file-downloader.svg" alt="Version"></a>
