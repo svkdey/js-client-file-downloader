@@ -47,7 +47,7 @@ function onOccuranceOfEvent() {
 
 ### Methods:
 
-Suppose on Click method we want to initiate download files
+Suppose onClick() we want to initiate download files
 
 ```js
 //makeCSV() to make cvs file , An array has to be passed in this method as input
