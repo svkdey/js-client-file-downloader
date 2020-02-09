@@ -1,6 +1,6 @@
 {
   "name": "js-client-file-downloader",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "download any data in any format on client side",
   "main": "index.js",
   "scripts": {
