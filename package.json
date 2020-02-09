@@ -1,0 +1,55 @@
+{
+  "name": "js-client-file-downloader",
+  "version": "1.0.6",
+  "description": "download any data in any format on client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./dist/index.js",
+    "babel": "babel ./lib --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/svkdey/jsclientfiledownloader.git"
+  },
+  "keywords": [
+    "js",
+    "to",
+    "CSV",
+    "downloader",
+    "js",
+    "to",
+    "JSON",
+    "downloader",
+    "js",
+    "to",
+    "PDF",
+    "downloader",
+    "js",
+    "to",
+    "txt",
+    "js",
+    "to",
+    "docx",
+    "downloader"
+  ],
+  "author": "svkdey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svkdey/jsclientfiledownloader/issues"
+  },
+  "homepage": "https://github.com/svkdey/jsclientfiledownloader#readme",
+  "dependencies": {
+    "docx": "^5.0.2",
+    "file-saver": "^2.0.2",
+    "jspdf": "^1.5.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@bable/polyfill": "^7.8.3"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
